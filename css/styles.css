@@ -245,6 +245,7 @@ ul {
 
 /* Chefs section */
 .chefs-title {
+  position: relative;
   max-width: 520px;
   margin: 0 auto 80px;
 }
